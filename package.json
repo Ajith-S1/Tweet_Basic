@@ -1,0 +1,14 @@
+{
+  "name": "tweet",
+  "version": "1.0.0",
+  "description": "This is a simple texting interface similar to twiter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ajith s",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
